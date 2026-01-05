@@ -59,7 +59,7 @@ Referência clássica em algoritmos, este livro oferece uma abordagem completa e
 ### por David Flanagan (Autor), João Eduardo Nóbrega Tortello (Tradutor), Luciana Nedel
 <img src="https://github.com/user-attachments/assets/1e2beeeb-1b01-4cfb-9bf9-3ea165a4eb1c" width="500">
 
-Este livro possui uma linguagem mais técina, contudo, tem uma orientação boa, funciona realmente como um guia definitivo sobre javascript. Apesar da linguagem mais densa, ele é extremamente útil como material de consulta e aprofundamento, especialmente para quem já tem alguma experiência e quer entender o JavaScript desde o básico ao avançado. 
+Indico esse livro para servir como um guia nos estudos, ele engloba todos os conteúdos de forma completa. É bom para estudos com outras fontes, pois o livro possui uma linguagem mais técina, contudo, tem uma orientação boa, funciona realmente como um guia definitivo sobre javascript. Apesar da linguagem mais densa, ele é extremamente útil como material de consulta e aprofundamento, especialmente para quem já tem alguma experiência e quer entender o JavaScript desde o básico ao avançado. 
 
 
 
